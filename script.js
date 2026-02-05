@@ -79,6 +79,7 @@ addButton.addEventListener('click', ()=>{
     
     
     gradeInput.value = '';
-    render(subjects);
 });
+
+render(mySubjects);
 
